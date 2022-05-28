@@ -1,0 +1,26 @@
+newmtl sobj_tourdesk:CR00_sobj_tourdesk_in_mat
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cmn_sobj_tourdesk_in.png
+Ni -1.00
+Ks 0.50 0.50 0.50
+Ns 0.00
+newmtl sobj_tourdesk:CR00_sobj_tourdesk_light_mat
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd cmn_sobj_tourdesk_light.png
+Ni -1.00
+Ks 0.50 0.50 0.50
+Ns 0.00
+newmtl sobj_tourdesk:CR00_sobj_tourdesk_mat
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni -1.00
+Ks 0.50 0.50 0.50
+Ns 0.00

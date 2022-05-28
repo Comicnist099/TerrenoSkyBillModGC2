@@ -1,0 +1,30 @@
+newmtl tren:initialShadingGroup
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl tren2:DoodleClown
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd outfit_col.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl tren2:DoodleClown_NONE
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd outfit_col.png
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl tren2:initialShadingGroup
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00

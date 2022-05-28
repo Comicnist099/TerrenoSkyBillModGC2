@@ -1,0 +1,17 @@
+newmtl Fountain:Fountain_Water
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 0.50 0.50 0.50
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 94.12
+newmtl Fountain:Material
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Fountain.png
+Ni 1.00
+Ks 0.20 0.20 0.20
+Ns 94.12
